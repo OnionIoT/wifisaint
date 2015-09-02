@@ -8,7 +8,7 @@ intfAp=-1
 intfSta=-1
 intfCount=0
 
-bLog=1
+bLog=0
 
 
 # function to perform logging
